@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omratnani&label=Profile%20views&color=0e75b6&style=flat" alt="omratnani" /> </p>
 
-- 🌱 I’m currently learning **IBM Tools for Data Science**
+- 🌱 I’m currently learning **Bechlors of Computer Science at SZABIST Karachi.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/omratnani/Projects](https://github.com/omratnani/Projects)
 
