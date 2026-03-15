@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Om Kirshana</h1>
-<h3 align="center">A passionate Computer Science student</h3>
+<h3 align="center">A passionate Computer Science Graduate</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omratnani&label=Profile%20views&color=0e75b6&style=flat" alt="omratnani" /> </p>
 
-- 🌱 I’m currently learning **Bechlors of Computer Science at SZABIST Karachi.**
+- 🌱 Graduate **Bechlors of Computer Science at SZABIST Karachi.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/omratnani/Projects](https://github.com/omratnani/Projects)
 
