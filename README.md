@@ -44,13 +44,4 @@
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
 </p>
 
-### GitHub Stats (Light Theme)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omratnani&show_icons=true&theme=light&hide_border=true" alt="GitHub Stats"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omratnani&layout=compact&theme=light&hide_border=true" alt="Top Languages"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omratnani&theme=light" alt="GitHub Streak"/>
-</p>
+
