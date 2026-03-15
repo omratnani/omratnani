@@ -73,22 +73,16 @@ I love **AI, Machine Learning, Data Analysis, Web Scraping, and Android Developm
 ---
 
 ## 🎯 Projects
-| Project | Tech Stack | Description | Link |
-|---------|-----------|-------------|------|
-| Career Path Recommendation App | Android, ML, Python | AI-based app to guide students on career choices | [GitHub](https://github.com/omratnani/Projects) |
-| Steam Games Data Analysis (Game Lens) | Python, Pandas, Matplotlib | Analysis of gaming trends & stats | [GitHub](https://github.com/omratnani/Projects) |
-| Iris Dataset Classifier | Python, scikit-learn | ML classification model for Iris dataset | [GitHub](https://github.com/omratnani/Projects) |
-| Web Scraping Automation | Python, BeautifulSoup, Selenium | Scripts to scrape data from multiple websites | [GitHub](https://github.com/omratnani/Projects) |
+| Project | Tech Stack | Description 
+|---------|-----------|-------------|
+| Career Path Recommendation App | Android, ML, Python | AI-based app to guide students on career choices |
+| Steam Games Data Analysis (Game Lens) | Python, Pandas, Matplotlib | Analysis of gaming trends & stats |
+| Iris Dataset Classifier | Python, scikit-learn | ML classification model for Iris dataset |
+| Web Scraping Automation | Python, BeautifulSoup, Selenium | Scripts to scrape data from multiple websites |
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omratnani&show_icons=true&theme=light&hide_border=true" alt="GitHub Stats"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omratnani&layout=compact&theme=light&hide_border=true" alt="Top Languages"/>
-</p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=omratnani&theme=light" alt="GitHub Streak"/>
 </p>
