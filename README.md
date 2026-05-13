@@ -66,7 +66,7 @@ I love **AI, Machine Learning, Data Analysis, Web Scraping, and Android Developm
 - Built **data pipelines and automation scripts**  
 - Assisted in **AI research and model evaluation**  
 
-### SZABIST – Visiting Faculty, DSA Lab – Oct 2025–Present
+### SZABIST – Visiting Faculty, DSA Lab – Oct 2025– Jan 2026
 - Teaching **Data Structures & Algorithms Lab**  
 - Guiding students on **projects, coding practices, and algorithm optimization**  
 
